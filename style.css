@@ -1,19 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *{
     margin: 0;
     padding: 0;
 }
 
 body{
-    background: #f3f3f3;
+    background: #fefefe;
+    display: flex;
 }
 .sideBar{
     height: 20px;
-    margin: 10px;
+    margin-bottom: 40px;
 }
-
+.nav{
+    height: 100vh;
+    width: 4vw;
+    background-color: #f3f3f3;
+}
 
 .navButton{
     background-color: #f3f3f3;
     border: none;
+    margin: 15px;
 
+}
+
+.main{
+    font-family: "Open Sans", sans-serif;
+    margin-left: 15px;
 }

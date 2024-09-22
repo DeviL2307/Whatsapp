@@ -38,9 +38,16 @@ body{
     border: none;
     margin-left: 150px;
 }
+
 .main button{
     height: 45px;
 } img{
     height: 22px;
 
+}
+.khatka{
+    height: 50px;
+    width: 50px;
+    background-color: #fefefe;
+    border: none;
 }

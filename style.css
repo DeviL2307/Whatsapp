@@ -28,4 +28,5 @@ body{
 .main{
     font-family: "Open Sans", sans-serif;
     margin-left: 15px;
+    display: flex;
 }

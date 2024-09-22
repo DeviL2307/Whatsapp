@@ -30,3 +30,14 @@ body{
     margin-left: 15px;
     display: flex;
 }
+
+#addbutton{
+    height: 20px;
+    width: 20px;
+}
+.main button{
+    height: 45px;
+} img{
+    height: 10px;
+
+}

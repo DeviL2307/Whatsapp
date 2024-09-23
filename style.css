@@ -30,7 +30,7 @@ body{
     padding-left: 15px;
     display: ruby;
     border: solid #eaeaea 0.5px;
-    width: 26vw;
+    width: 22vw;
 }
 
 #addbutton{
@@ -38,7 +38,7 @@ body{
     width: 50px;
     background-color: #fefefe;
     border: none;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 .main button{
@@ -55,5 +55,11 @@ body{
     
 }
 .searchBar{
+    border: solid #eaeaea 0.5px;
+    width: 18vw;
+    height: 5vh;
+    border-radius: 5px;
+    padding-left: 35px;
+    font-family: "Open Sans", sans-serif;
     
 }

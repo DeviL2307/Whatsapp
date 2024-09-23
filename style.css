@@ -27,8 +27,9 @@ body{
 
 .main{
     font-family: "Open Sans", sans-serif;
-    margin-left: 15px;
+    padding-left: 15px;
     display: flex;
+    border: solid #eaeaea 0.5px;
 }
 
 #addbutton{
@@ -50,4 +51,8 @@ body{
     width: 50px;
     background-color: #fefefe;
     border: none;
+    
+}
+.searchBar{
+    
 }

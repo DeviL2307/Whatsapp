@@ -28,8 +28,9 @@ body{
 .main{
     font-family: "Open Sans", sans-serif;
     padding-left: 15px;
-    display: flex;
+    display: ruby;
     border: solid #eaeaea 0.5px;
+    width: 26vw;
 }
 
 #addbutton{

@@ -55,11 +55,19 @@ body{
     
 }
 .searchBar{
-    border: solid #eaeaea 0.5px;
-    width: 18vw;
+    border: none;
+    width: 16vw;
     height: 5vh;
     border-radius: 5px;
     padding-left: 35px;
     font-family: "Open Sans", sans-serif;
     
+}
+#searchBar{
+    border: solid #eaeaea 0.5px;
+    display: flex;
+    padding-left: 10px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
 }

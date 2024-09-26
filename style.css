@@ -110,6 +110,8 @@ body{
 }
 .chats{
     margin-top: 13vh;
+    height:600px;
+    overflow-y:scroll;
 }
 
 .person:hover{

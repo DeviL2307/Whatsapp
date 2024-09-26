@@ -11,11 +11,13 @@ body{
 .sideBar{
     height: 20px;
     margin-bottom: 40px;
+    
 }
 .nav{
     height: 100vh;
     width: 4vw;
     background-color: #f3f3f3;
+    position: fixed;
 }
 
 .navButton{
@@ -31,6 +33,7 @@ body{
     display: ruby;
     border: solid #eaeaea 0.5px;
     width: 22vw;
+    margin-left: 4vw;
 }
 
 #addbutton{
@@ -40,6 +43,10 @@ body{
     border: none;
     margin-left: 100px;
 }
+.main h1{
+    font-size: 20px;
+}
+
 
 .main button{
     height: 45px;
@@ -70,4 +77,24 @@ body{
     border-radius: 5px;
     justify-content: center;
     align-items: center;
+}
+
+.profilePic{
+    height: 50px;
+    border-radius: 100px;
+}
+
+.person{
+    width: 21vw;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.textDecor{
+    margin-left: 14px;
+    margin-bottom: 35px;
+    font-family: "Open Sans", sans-serif;
+    font-size:15px ;
 }

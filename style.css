@@ -21,7 +21,7 @@ body{
 }
 
 .navButton{
-    background-color: #f3f3f3;
+    /* background-color: #f3f3f3; */
     border: none;
     margin: 15px;
 
@@ -113,5 +113,9 @@ body{
 }
 
 .person:hover{
-
+    background-color: #f3f3f3;
+    border-radius: 10px;
 }
+ .navButton:hover{
+    background-color: #eaeaea;
+ }

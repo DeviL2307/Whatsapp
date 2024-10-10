@@ -7,6 +7,10 @@
 body{
     background: #fefefe;
     display: flex;
+    
+}
+body::webkit-scrollbar{
+    display : none;
 }
 .sideBar{
     height: 20px;
